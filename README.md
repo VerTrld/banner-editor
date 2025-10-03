@@ -1,1 +1,1 @@
-# banner-editor
+Banner Editor is a dynamic image generation tool powered by Fabric.js. Design templates, insert custom text or images programmatically, and export visuals for social media, marketing, or automation workflows — all from a single flexible canvas system.
